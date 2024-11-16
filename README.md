@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python{Intermediate} and Maths behind Machine learning algorithms
 - 💞️ I’m looking to collaborate on project related Machine learning snd deep learning.
 - 📫 How to reach me www.linkedin.com/in/chetan-sonarthi-cs-enthusiast
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Meet me in real time , you will get to know.
 
 <!---
